@@ -1,0 +1,59 @@
+What happens when you initialize a repository?
+
+creamos el archivo .git que son metadatos para activar git y que pueda funcionar.
+
+
+
+Why do you need to do it?
+
+de  no crearse el repositorio no tendriamos ninguna utilidad de git.
+
+How is the staging area different from the working directory and the repository? 
+
+
+area de preparacion es una forma de indicar a git qu los archivos estan listos para hacer un commit,
+y el area de trabajo es el que solo se encuentra en el disco duro.
+
+
+
+What value do you think it offers?
+
+En el area de preparacion ya podemos realizar un respaldo de nuestro proyecto.
+
+
+
+
+How can you use the staging area to make sure you have one commit per logical change? 
+Con un git status
+
+
+
+What are some situations when branches would be help ful in keeping your history
+organized? 
+
+Para trabajar en equipo
+
+
+How would branches help?
+
+cada integrante realiza cambios en la version que tiene, y solo envia los cambios una vez que esta convencido
+de que ya tiene un buen funcionamiento y no afectara de ninguna manera al rpoyecto general.
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+en base a la gerarquia, donde la principal es el master que es la version funcional del proyecto.
+
+What is the result of merging two branches together? 
+
+al fusionar dos ramas los cambios de ambas ramas se combinan y forman una sola version del proyecto.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+la fusion es una buena opcion ya que las ramas existentes no sufren algun cambio pero tal vez al trabajar 
+en equipo resulte dificil de entender para los demas desarrolladores.
+ulando la fusion autamica se eliminan commits que no son necesarios.
+DESVENTAJA: no se pueden visualizar los cambios que se realizaron a alguna funcionlidad en un nivel superior.

@@ -1,0 +1,70 @@
+﻿How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+Al facilinarnos ver ambas versiones del codigo, me permitio ver de mejor manera y mas rapido que lineas del codigo fueron
+las que cambie, y permitio regresar a cuando el proyecto funcionaba.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    
+Con el control de versiones me facilitara poder experimentar la aplicacion de algunas ideas para mejorar mi trabajo,
+pero de no ser lo que esperaba podre regresar al momento en que mi codigo funcionaba.
+
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved,
+like Google docs does?
+
+	    
+VENTAJAS: En comparacion a otras herramientas puedo documentar cada version de mi proyecto, y resulta mas eficas que otras heramientas
+que cuentan con auto guardado.
+
+DESVENTAJAS: Al no enviar nuestros archivos andes de realizar algun cambio, podemos perder el avanze de lo que ya funcionaba
+ y no saber de donde comenzar de nuevo.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?
+
+que git maneja todos nuestros documentos en base a un proyecto en git.
+
+
+
+¿Cuáles crees que son los pros y los contras de elegir manualmente cuándo crear un compromiso, como lo haces en Git,
+y tener las versiones guardadas automáticamente, como lo hace Google Docs?
+
+PROOS: En ocaciones otras herramientas generan respaldos sin necesitad, o de mala manera.
+
+CONTRAS: Que podemos olvidar hacer un respaldo y perder nuestro documento.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    
+Que puedo regresar a la version anterior (donde funciona), aun que mi version actual no funcione como yo esperaba.
+
+
+
+Now that you have your workspace set up,  what do you want to try using Git for?
+
+
+Herramienta popular entre desarrolladores y de facil uso para respaldo de codigo de personas que se dediquen
+al desarrollo de softwre.
+
+
+
+
+¿Por qué cree que algunos sistemas de control de versiones, como Git, permiten guardar varios archivos en un solo coomit, 
+mientras que otros, como Google Docs, tratan cada archivo por separado?
+
+   
+Al tratarlos como un repositorio, podemos generar las versiones que deceemos.
+
+¿Cómo puedes usar los comandos git log y git diff para ver el historial de archivos?
+
+   
+GIT LOG: para visualizar los cambios recientes del archivo.
+
+GIT DIFF: Se utiliza para comparar dos versiones del proyecto utilizando el id de cada version.
